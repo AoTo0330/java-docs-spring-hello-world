@@ -15,6 +15,6 @@ public class DemoApplication {
 
 	@RequestMapping("/")
 	String sayHello() {
-		return "Hello Azure Web Apps!";
+		return "Hello Azure Web Apps for Datadog!";
 	}
 }
